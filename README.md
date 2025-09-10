@@ -1,23 +1,23 @@
-# Aplikasi-My-Cash
+# My-Cash
 
-Aplikasi My Cash adalah aplikasi Flutter untuk membantu Anda mengatur dan memantau keuangan pribadi secara mudah. Cocok untuk pencatatan pemasukan dan pengeluaran harian.
+My Cash is a Flutter application designed to help you easily manage and monitor your personal finances. Perfect for recording daily income and expenses.
 
-## Fitur
+## Features
 
-- **Pencatatan Transaksi:** Tambah, edit, dan hapus pemasukan/pengeluaran.
-- **Kategori Transaksi:** Kelompokkan transaksi berdasarkan kategori.
-- **Ringkasan Saldo:** Lihat total saldo, pemasukan, dan pengeluaran.
-- **Laporan Keuangan:** Tampilkan laporan keuangan bulanan atau tahunan.
-- **Antarmuka Sederhana:** Mudah digunakan di perangkat Android/iOS.
+- **Transaction Recording:** Add, edit, and delete income/expense entries.
+- **Transaction Categories:** Group transactions by category.
+- **Balance Summary:** View your total balance, income, and expenses.
+- **Financial Reports:** Display monthly or yearly financial reports.
+- **Simple Interface:** Easy to use on Android/iOS devices.
 
-## Instalasi & Menjalankan Aplikasi
+## Installation & Running the App
 
-1. Pastikan sudah menginstal [Flutter](https://docs.flutter.dev/get-started/install) dan [Dart](https://dart.dev/get-dart).
-2. Clone repository ini:
+1. Make sure you have installed [Flutter](https://docs.flutter.dev/get-started/install) and [Dart](https://dart.dev/get-dart).
+2. Clone this repository:
    ```bash
    git clone https://github.com/YusufAffandi23045/Aplikasi-My-Cash.git
    ```
-3. Masuk ke folder project:
+3. Navigate to the project folder:
    ```bash
    cd Aplikasi-My-Cash
    ```
@@ -25,17 +25,17 @@ Aplikasi My Cash adalah aplikasi Flutter untuk membantu Anda mengatur dan memant
    ```bash
    flutter pub get
    ```
-5. Jalankan aplikasi di emulator atau device:
+5. Run the application on an emulator or device:
    ```bash
    flutter run
    ```
 
-## Struktur Project
+## Project Structure
 
-- `lib/` : Source code utama aplikasi (Dart & Flutter).
-- `assets/` : Asset gambar/icon aplikasi.
-- `pubspec.yaml` : Konfigurasi dependencies Flutter.
+- `lib/` : Main source code for the application (Dart & Flutter).
+- `assets/` : Application image/icon assets.
+- `pubspec.yaml` : Flutter dependencies configuration.
 
-## Kontribusi
+## Contribution
 
-Kontribusi sangat terbuka! Silahkan fork repo ini, buat fitur baru, atau perbaiki bug, lalu lakukan pull request.
+Contributions are very welcome! Feel free to fork this repo, add new features, or fix bugs, then submit a pull request.
